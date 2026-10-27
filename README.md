@@ -11,7 +11,6 @@ Projeto de portfólio com identidade e registros fictícios. A demonstração ro
 ![Painel desktop com disponibilidade e prazos de calibração](docs/images/desktop-painel.jpg)
 
 ### Mobile
-Capturas em viewport de 390 × 844 px: painel, navegação lateral e formulário de equipamento.
 
 <p>
   <img src="docs/images/mobile-painel.jpg" alt="Painel no celular com marca centralizada e indicadores em duas colunas" width="250" />
@@ -26,21 +25,6 @@ Capturas em viewport de 390 × 844 px: painel, navegação lateral e formulário
 - Devoluções e histórico de movimentações.
 - Registro de calibração, vencimentos e anexos PDF.
 - Desativação com proteção do histórico e exportação dos registros.
-
-## Experiência mobile
-A navegação se adapta a telas de até 760 px: o menu lateral dá lugar ao botão ☰, que abre uma aba com as seções do sistema.
-A marca fica centralizada em três linhas e os formulários passam a uma coluna.
-O menu fecha ao escolher uma seção, ao tocar fora dele ou pressionar Escape. Também permite navegação pelo teclado.
-
-## Tecnologias e organização
-React, JavaScript e CSS, com Vite para desenvolvimento e compilação.
-- src/pages: telas de painel, equipamentos e movimentações.
-- src/components: formulários, histórico e ações.
-- src/domain: regras de retirada, devolução e ciclo de vida.
-- src/services: dados fictícios e persistência local.
-- shared: regras compartilhadas de equipamentos.
-- tests: verificações do fluxo de movimentação e persistência.
-- docs: demonstração estática para GitHub Pages.
 
 ## Executar localmente
 Requer Node.js 22.12 ou superior.
