@@ -5,6 +5,20 @@ Gestão de equipamentos, movimentações e calibrações em uma interface respon
 
 Projeto de portfólio com identidade e registros fictícios. A demonstração roda no navegador e não acessa sistemas ou bases corporativas.
 
+## Telas do projeto
+
+### Desktop
+![Painel desktop com disponibilidade e prazos de calibração](docs/images/desktop-painel.jpg)
+
+### Mobile
+Capturas em viewport de 390 × 844 px: painel, navegação lateral e formulário de equipamento.
+
+<p>
+  <img src="docs/images/mobile-painel.jpg" alt="Painel no celular com marca centralizada e indicadores em duas colunas" width="250" />
+  <img src="docs/images/mobile-menu.jpg" alt="Menu sanduíche aberto no celular" width="250" />
+  <img src="docs/images/mobile-cadastro.jpg" alt="Formulário de equipamento em uma coluna no celular" width="250" />
+</p>
+
 ## Do controle à consulta
 - Painel com disponibilidade dos equipamentos, retiradas em aberto e prazos de calibração.
 - Cadastro e busca de equipamentos, com identificação, localização e condição.
