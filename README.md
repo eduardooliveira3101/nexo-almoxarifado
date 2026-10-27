@@ -26,19 +26,5 @@ Projeto de portfólio com identidade e registros fictícios. A demonstração ro
 - Registro de calibração, vencimentos e anexos PDF.
 - Desativação com proteção do histórico e exportação dos registros.
 
-## Executar localmente
-Requer Node.js 22.12 ou superior.
-
-~~~sh
-npm install
-npm run dev
-~~~
-
-~~~sh
-npm test
-npm run build
-~~~
-
 ## Escopo da demonstração
-Os dados são guardados no localStorage do navegador. Não há autenticação real, servidor ou sincronização entre dispositivos. Anexos e alterações devem conter apenas dados fictícios. Para restaurar a base de exemplo, limpe os dados deste site no navegador.
-A documentação apresenta a versão pública de portfólio; não publica credenciais, registros ou identidade de uma empresa.
+Os dados são guardados no localStorage do navegador. Não há autenticação real, servidor ou sincronização entre dispositivos. 
