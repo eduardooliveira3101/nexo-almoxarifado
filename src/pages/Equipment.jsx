@@ -142,3 +142,4 @@ export default function Equipment({ data, open, calibration = false }) {
     </>
   );
 }
+

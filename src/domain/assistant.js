@@ -46,3 +46,4 @@ export function answerQuestion(data, question) {
       .join('\n') || 'Nenhuma retirada encontrada. Consulte pela identificação do equipamento.'
   );
 }
+

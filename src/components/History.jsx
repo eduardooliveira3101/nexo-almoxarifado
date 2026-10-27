@@ -72,3 +72,4 @@ export default function History({ id, data, onClose }) {
     </Modal>
   );
 }
+

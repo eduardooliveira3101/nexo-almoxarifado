@@ -105,3 +105,4 @@ export default function EquipmentAction({ kind, id, data, commit, saving, onClos
     </Modal>
   );
 }
+

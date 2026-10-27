@@ -188,3 +188,4 @@ export default function RecordForm({ kind, id, data, commit, onClose, saving }) 
     </Modal>
   );
 }
+

@@ -37,3 +37,4 @@ export default function Modal({ title, children, onClose, busy = false }) {
     </dialog>
   );
 }
+

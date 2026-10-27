@@ -28,3 +28,4 @@ Projeto de portfólio com identidade e registros fictícios. A demonstração ro
 
 ## Escopo da demonstração
 Os dados são guardados no localStorage do navegador. Não há autenticação real, servidor ou sincronização entre dispositivos. 
+

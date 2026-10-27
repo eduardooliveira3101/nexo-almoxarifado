@@ -3,3 +3,4 @@ export default function CalibrationBadge({ equipment }) {
   const { label, tone } = calibrationStatus(equipment);
   return <span className={`badge ${tone}`}>{label}</span>;
 }
+

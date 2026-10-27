@@ -45,3 +45,4 @@ export async function readPdf(file) {
     reader.readAsDataURL(file);
   });
 }
+

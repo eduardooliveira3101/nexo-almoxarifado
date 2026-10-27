@@ -94,3 +94,4 @@ export function applyChange(
   } else throw Error('Operação inválida.');
   return next;
 }
+

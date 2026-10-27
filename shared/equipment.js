@@ -38,3 +38,4 @@ export function validateLifecycle(previous, next) {
       throw Error('Equipamento desativado não pode receber novas retiradas.');
   }
 }
+
